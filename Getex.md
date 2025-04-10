@@ -83,5 +83,5 @@
 | tpFilltheThemaEinsatzdaten_from_getex | PCK_RI_GETEX_APPLY.pFillGetexThemaEinsatzDaten &#x2611;|
 | pInitialCreation_regulationFromGetex | PCK_RI_GETEX_APPLY.pInitCreateGetexReg &#x2611;|
 | pInitialComparing_existingWithregulationFromGetex | PCK_RI_GETEX_APPLY.pInitCompareGetexReg &#x2611;|
-| pCreateRegulationFromGetexImport | Delete (Obsolete) *(NOT FOUND)* |
+| pCreateRegulationFromGetexImport | pCreateVorVomGetexImport &#x2611; |
 | pImportFromZip_snippet | PCK_RI_GETEX_CTRL.pImportZipSnippet &#x2611;|
